@@ -24,7 +24,7 @@ body{
 }
 .container .box{
     position: relative;
-    width: 300px;
+    width: 310px;
     height: 350px;
     background: #2e2e2e;
     display: flex;
